@@ -1,4 +1,5 @@
-import numpy
-print('hello')
+#Time:2018-07-20 
+#Name:wangjianbin
+#Project:learning machine code
 
-print('this is AI folder')
+print('let\'s go')
